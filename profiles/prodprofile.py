@@ -1,6 +1,6 @@
 class ProdProfile:
     base_url = "https://www.tummee.com/auth/login"
-    username = "viraniyashm23@gmail.com"
+    username = ""
     page_timeout = 30
-    password = "AutoTum@33"
+    password = ""
     max_timeout = 15
